@@ -6,7 +6,7 @@ Esta información esta agrupado por 3 módulos, para este repositorio solo se es
 
 ### Módulo I (Diagnóstico de saneamiento)
 - Centro poblado con servicio
-   - Administradi por una EPS 
+   - Administrado por una EPS 
    - Con sistema
    - Abastecido por centro poblado vecino
 
